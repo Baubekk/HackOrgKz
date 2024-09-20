@@ -1,0 +1,38 @@
+.arcticle_of_blog{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.image {
+    width: 100%;
+    height: 100%;
+}
+.content_container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: rgb(4, 44, 84);
+}
+.content_container p{
+
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 11.65px;
+    font-weight: 700;
+    line-height: 34.95px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.content_container h1{
+    color: rgb(255, 255, 255);
+    font-family: Manrope;
+    font-size: 25.11px;
+    font-weight: 800;
+    line-height: 30.29px;
+    letter-spacing: 0%;
+    text-align: left;
+}
