@@ -1,6 +1,4 @@
 import React from 'react'
-import '@Components/Feed'
-import Blog from '@Components/blog/Blog'
 import Feed from '@Components/Feed'
 const Home = () => {
   return (
